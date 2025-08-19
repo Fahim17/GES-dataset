@@ -1,15 +1,25 @@
 import pyautogui
 import time
 import os
+import pandas as pd
+
+# Delay to allow time to switch to browser window
+print("You have 5 seconds to place your mouse over the first image.")
+time.sleep(10)
 
 folder_path = "C:\\Users\\ChinoMo\\Downloads\\Vigor"
 prev_count = len(os.listdir(folder_path))
 
-# Delay to allow time to switch to browser window
-print("You have 5 seconds to place your mouse over the first image.")
-time.sleep(5)
 
-# Coordinates of the image (you can record this using pyautogui.position())
+ct_nm = 'Chicago' # Chicago NewYork SanFrancisco Seattle
+df = pd.read_csv(f'csv/{ct_nm}_all_images.csv')
+all_values = df.img.values.tolist()
+folder_names = []
+for item in all_values:
+    folder_name = item.split(',')
+    folder_names.append(f'{folder_name[0]}_{folder_name[1]}_{folder_name[2]}')
+
+
 image_pos = pyautogui.position()
 print(f"Captured image position: {image_pos}")
 

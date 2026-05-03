@@ -1,0 +1,10 @@
+ExpID: 1755984186
+Number of Location: 2
+StartTime: 2025-08-23 17:23:06.141899
+
+Item: 0, Location ID: N0br44bTow_tzFXgMqTsHA_41.879462_-87.667972
+
+Item: 1, Location ID: tp1iUiiP8sONUUy1Hrv0LQ_41.854085_-87.671646
+
+EndTime: 2025-08-23 17:26:43.874987
+Runtime: 217.73345255851746

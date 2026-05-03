@@ -1,0 +1,10 @@
+ExpID: 1757217370
+Start Location: 3583
+Number of Location: 44
+StartTime: 2025-09-06 23:56:10.647145
+
+Item: 3583, Location ID: KiEXoVl3JO9wkjk7XyxUtw_41.878176_-87.630342, time(sec): 163.77599143981934
+Item: 3584, Location ID: SH_6K-Xp6UsbLKqDgcMVnw_41.866971_-87.662353, time(sec): 150.69451713562012
+Item: 3585, Location ID: r0yuq8dwXMXaAjzAhU7O6A_41.885485_-87.661619, time(sec): 212.86328125
+Item: 3586, Location ID: V8CXJwt9-kLWVip4BPFqiA_41.855178_-87.638765, time(sec): 227.8178300857544
+Item: 3587, Location ID: hqzku0l__sqLd0HEEyQZow_41.879855_-87.672913, time(sec): 281.872065782547

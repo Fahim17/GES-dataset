@@ -1,0 +1,9 @@
+ExpID: 1765235595
+Start Location: 28
+Location: NewYork
+Number of Location: 500
+StartTime: 2025-12-08 18:13:15.998703
+
+Item: 28, Location ID: QZrE__b86a5R3YSgchlNGg_40.765468_-73.971987, lat:40.765468, long:-73.971987, alt117, time(sec): 185.71748065948486
+Item: 29, Location ID: BKxaNskJoqW3mYj-RlA0Nw_40.778862_-73.967519, lat:40.778862, long:-73.967519, alt136, time(sec): 178.56247329711914
+Item: 30, Location ID: PnpMbOonGnvkMgwHDvrZRg_40.710986_-73.980135, lat:40.710986, long:-73.980135, alt105, time(sec): 214.55390763282776

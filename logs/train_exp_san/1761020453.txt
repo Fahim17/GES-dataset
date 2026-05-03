@@ -1,0 +1,12 @@
+ExpID: 1761020453
+Start Location: 799
+Number of Location: 4
+StartTime: 2025-10-21 00:20:53.179276
+
+Item: 799, Location ID: NJ5LbPFjQe6pCUDqxZKNVw_37.768170_-122.444888, lat:37.76817, long:-122.444888, alt209, time(sec): 86.30167770385742
+Item: 800, Location ID: uzfFK5is4iz5lp9au_YoDA_37.770337_-122.432654, lat:37.770337, long:-122.432654, alt146, time(sec): 109.28934502601624
+Item: 801, Location ID: aY8SagRFGsvw2PlrI_DSXQ_37.777796_-122.395794, lat:37.777796, long:-122.395794, alt113, time(sec): 178.45063090324402
+Item: 802, Location ID: _qakk-_UWKFcp6zeayf6jQ_37.750580_-122.442764, lat:37.75058, long:-122.442764, alt245, time(sec): 195.1811556816101
+
+EndTime: 2025-10-21 00:30:22.417290
+Runtime: 0:09:29

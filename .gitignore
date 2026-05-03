@@ -2,3 +2,9 @@ stitched_output/
 backup_script/temp.ipynb
 csv/temp
 temp.ipynb
+*.pt
+*.pth
+*.ckpt
+logs/*.*
+figures/*.*
+folder_counts.csv

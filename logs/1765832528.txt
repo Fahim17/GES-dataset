@@ -1,0 +1,8 @@
+ExpID: 1765832528
+Start Location: 834
+Location: NewYork
+Number of Location: 500
+StartTime: 2025-12-15 16:02:08.380407
+
+Item: 834, Location ID: 6KRGi1e2fVnpj3ZqE3cMgQ_40.719947_-73.990162, lat:40.719947, long:-73.990162, alt121, time(sec): 132.35050201416016
+Item: 835, Location ID: ZJPxVZKdDIo8KiAJtkjO3Q_40.719864_-73.997884, lat:40.719864, long:-73.997884, alt118, time(sec): 217.3560390472412

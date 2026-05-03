@@ -1,0 +1,7 @@
+ExpID: 1765094058
+Start Location: 0
+Number of Location: 500
+StartTime: 2025-12-07 02:54:19.017699
+
+Item: 0, Location ID: mV03A1slFYHFCQyqBj0noQ_40.761530_-73.978469, lat:40.76153, long:-73.978469, alt121, time(sec): 242.66526865959167
+Item: 1, Location ID: CluVY67NyMyeHn8YME2Wpw_40.722462_-73.980585, lat:40.722462, long:-73.980585, alt106, time(sec): 172.52186012268066

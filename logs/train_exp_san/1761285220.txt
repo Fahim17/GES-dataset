@@ -1,0 +1,10 @@
+ExpID: 1761285220
+Start Location: 827
+Number of Location: 300
+StartTime: 2025-10-24 01:53:40.718751
+
+Item: 827, Location ID: 16W0IlsTdQ2__2xtdz6r_A_37.757547_-122.437964, lat:37.757547, long:-122.437964, alt174, time(sec): 84.9326982498169
+Item: 828, Location ID: SzZBUYgDjC4zH3VdscbNFg_37.758807_-122.416635, lat:37.758807, long:-122.416635, alt116, time(sec): 98.89765429496765
+Item: 829, Location ID: c-F6LTKhSVBtbczZ6KWPpg_37.768037_-122.407728, lat:37.768037, long:-122.407728, alt113, time(sec): 145.82283520698547
+Item: 830, Location ID: t0mijSEv4JStxgjgrddqCw_37.765814_-122.418689, lat:37.765814, long:-122.418689, alt108, time(sec): 184.96787095069885
+Item: 831, Location ID: mM-P1kQ53rfdMZgGDHYVWg_37.789926_-122.398620, lat:37.789926, long:-122.39862, alt104, time(sec): 153.43567991256714

@@ -1,0 +1,8 @@
+ExpID: 1765166119
+Start Location: 3
+Location: NewYork
+Number of Location: 500
+StartTime: 2025-12-07 22:55:19.944756
+
+Item: 3, Location ID: AKlJfEjSxfWQoIk4ufHpsQ_40.723898_-73.976499, lat:40.723898, long:-73.976499, alt106, time(sec): 101.64510583877563
+Item: 4, Location ID: _ccQ-ERjglV6YfqZhbyW9A_40.721356_-73.993708, lat:40.721356, long:-73.993708, alt117, time(sec): 212.55763292312622

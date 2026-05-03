@@ -1,0 +1,7 @@
+ExpID: 1761375741
+Start Location: 896
+Number of Location: 300
+StartTime: 2025-10-25 03:02:21.650686
+
+Item: 896, Location ID: DPbgSHi8Qd9X5z7BnfGOXA_37.748606_-122.425441, lat:37.748606, long:-122.425441, alt148, time(sec): 90.85303664207458
+Item: 897, Location ID: BobyDlxEvko4SMboSSp1TQ_37.772701_-122.441127, lat:37.772701, long:-122.441127, alt173, time(sec): 120.08266711235046

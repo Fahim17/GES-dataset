@@ -1,5 +1,0 @@
-ExpID: 1760643912
-Start Location: 150
-Number of Location: 300
-StartTime: 2025-10-16 15:45:12.323110
-

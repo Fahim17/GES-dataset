@@ -1,5 +1,0 @@
-ExpID: 1758178750
-Start Location: 302
-Number of Location: 300
-StartTime: 2025-09-18 02:59:10.687363
-

@@ -1,7 +1,0 @@
-ExpID: 1768785679
-Start Location: 0
-Location: Seattle_sat
-Number of Location: 3000
-StartTime: 2026-01-18 20:21:19.450841
-
-Item: 0, Location ID: OQvGr9IfisDKXiW8q9or_g_47.606905_-122.330092, lat:47.606905, long:-122.330092, alt2199, time(sec): 16.197482109069824

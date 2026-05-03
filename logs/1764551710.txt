@@ -1,9 +1,0 @@
-ExpID: 1764551710
-Start Location: 29
-Number of Location: 300
-StartTime: 2025-11-30 20:15:10.220824
-
-Item: 29, Location ID: P4ZUD-zheCN1Y-6ul7oDsA_47.612853_-122.314669, lat:47.612853, long:-122.314669, alt203, time(sec): 85.62826704978943
-Item: 30, Location ID: 7rDbrNVb2TqrCHBrhLHM9A_47.590821_-122.307758, lat:47.590821, long:-122.307758, alt127, time(sec): 84.6522045135498
-Item: 31, Location ID: Ic4jBIfUr_pVxedjI6uNuw_47.599880_-122.323752, lat:47.59988, long:-122.323752, alt143, time(sec): 85.54071021080017
-Item: 32, Location ID: xKRpfF7rd1i1eicgxjrfkw_47.562155_-122.314231, lat:47.562155, long:-122.314231, alt177, time(sec): 91.622633934021

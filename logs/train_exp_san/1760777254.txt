@@ -1,6 +1,0 @@
-ExpID: 1760777254
-Start Location: 150
-Number of Location: 300
-StartTime: 2025-10-18 04:47:34.795193
-
-Item: 150, Location ID: fVQEOFAeodfIYG_OEC-C8Q_37.764759_-122.393359, lat:37.764759, long-122.393359, alt100, time(sec): 81.73078489303589

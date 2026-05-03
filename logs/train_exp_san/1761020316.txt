@@ -1,6 +1,0 @@
-ExpID: 1761020316
-Start Location: 799
-Number of Location: 4
-StartTime: 2025-10-21 00:18:36.101044
-
-Item: 799, Location ID: NJ5LbPFjQe6pCUDqxZKNVw_37.768170_-122.444888, lat:37.76817, long:-122.444888, alt209, time(sec): 87.21116590499878

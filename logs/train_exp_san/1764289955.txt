@@ -1,8 +1,0 @@
-ExpID: 1764289955
-Start Location: 1487
-Number of Location: 300
-StartTime: 2025-11-27 19:32:35.712593
-
-Item: 1487, Location ID: JsvlLGGbClWsGhF1wwgrTw_37.739226_-122.409564, lat:37.739226, long:-122.409564, alt125, time(sec): 87.62426161766052
-Item: 1488, Location ID: K8z9oHEPwKxswyrLK1GCgw_37.743531_-122.401579, lat:37.743531, long:-122.401579, alt102, time(sec): 90.70613265037537
-Item: 1489, Location ID: RPIcneuQB_BtqjSgN6d2Tw_37.778199_-122.409246, lat:37.778199, long:-122.409246, alt110, time(sec): 165.6615526676178

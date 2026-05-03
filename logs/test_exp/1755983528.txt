@@ -1,5 +1,0 @@
-ExpID: 1755983528
-Time: 2025-08-23 17:12:08.745221
-Number of Location: 2
-Item: 0, Location ID: N0br44bTow_tzFXgMqTsHA_41.879462_-87.667972
-Item: 1, Location ID: tp1iUiiP8sONUUy1Hrv0LQ_41.854085_-87.671646

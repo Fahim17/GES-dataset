@@ -6,5 +6,6 @@ temp.ipynb
 *.pth
 *.ckpt
 logs/*.*
+logs/
 figures/*.*
 folder_counts.csv
